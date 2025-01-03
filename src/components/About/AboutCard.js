@@ -8,14 +8,15 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hi Everyone, I am <span className="purple">Anastasia Br Sidebang </span>
+            from <span className="purple"> Tangerang, Indonesia.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
-            <br />
+            I am an Informatics student at Universitas Multimedia Nusantara, Indonesia, with a strong passion for UI/UX
+design. I am dedicated to continuously learning and growing in this field, aiming to become a dynamic and
+impactful designer. I have skills in front-end development that enable me to bring smooth and responsive designs
+to life. I enjoy exploring new concepts and collaborating with teams, and I am excited to create user-centered
+digital experiences. I am ready to face challenges and deliver innovative solutions in the tech industry.
+            
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -23,18 +24,13 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
+
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          
         </blockquote>
       </Card.Body>
     </Card>
